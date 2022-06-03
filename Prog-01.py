@@ -2,5 +2,3 @@
 # -*- coding> utf-8 -*-
 
 print("Estou aprendendo python :-)")
-
-
