@@ -8,4 +8,4 @@ entrada = float(input("Digite a velocidade(m/s)\n>"))
 v_ms = float(entrada)
 v_kmh = v_ms * 3.6
 
-print("{0}m/s = {1}Km/h".format(v_ms, v_kmh))
+print("{0:.3f}m/s = {1:.3f}Km/h".format(v_ms, v_kmh))
